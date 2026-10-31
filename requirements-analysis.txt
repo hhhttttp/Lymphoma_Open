@@ -1,0 +1,10 @@
+-r requirements.txt
+lifelines==0.30.0
+scikit-survival==0.25.0
+statsmodels==0.14.5
+shap==0.48.0
+seaborn==0.13.2
+networkx==3.4.2
+plotly==6.7.0
+umap-learn==0.5.12
+xgboost==3.0.0
